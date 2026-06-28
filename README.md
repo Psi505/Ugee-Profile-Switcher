@@ -6,7 +6,7 @@ Switches UGEE tablet configuration profiles using global hotkeys. Runs as a hidd
 
 ## Why
 
-The UGEE driver stores a single config at `%APPDATA%\Roaming\ugeeTablet\Ugee_Tablet.xml` and only reads it at startup. If you work across multiple monitor setups you have to manually swap settings every time through the driver UI. This tool automates that.
+The UGEE S640 driver stores a single config at `%APPDATA%\Roaming\ugeeTablet\Ugee_Tablet.xml` and only reads it at startup. If you work across multiple monitor setups you have to manually swap settings every time through the driver UI. This tool automates that.
 
 ---
 
