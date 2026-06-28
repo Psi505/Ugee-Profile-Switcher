@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UGEE>
+  <PenTableLists version="1.4.1">
+    <DummyDevice>
+      <DeviceInfo>
+        <DeviceRingNum>0</DeviceRingNum>
+        <DeviceKeyNum>0</DeviceKeyNum>
+        <DevicePenType>0</DevicePenType>
+        <DeviceTrackPad>0</DeviceTrackPad>
+        <DeviceControl>0</DeviceControl>
+      </DeviceInfo>
+      <Common>
+        <ScreenMapping id="0">
+          <SX>0</SX>
+          <SY>0</SY>
+          <SW>0</SW>
+          <SH>0</SH>
+        </ScreenMapping>
+        <TabletPannel Orientation="0">
+          <TX>0</TX>
+          <TY>0</TY>
+          <TW>0</TW>
+          <TH>0</TH>
+        </TabletPannel>
+        <DisableInfo>0</DisableInfo>
+        <DisableQuickKey>0</DisableQuickKey>
+        <DisablePressure>0</DisablePressure>
+        <DisableSlope>0</DisableSlope>
+      </Common>
+      <CommonAPP>
+        <Pen>
+          <PenBtn1 Actid="207" id="0"/>
+          <PenBtn2 Actid="208" id="0"/>
+          <P0>0</P0>
+          <P1X>0.5</P1X>
+          <P1Y>0.5</P1Y>
+          <P2>1</P2>
+          <TablePC>1</TablePC>
+          <RelativeCoords Speed="5">0</RelativeCoords>
+        </Pen>
+      </CommonAPP>
+      <Apps>
+        <app id="0" name="0">
+          <path/>
+          <Pen>
+            <PenBtn1 Actid="207" id="0"/>
+            <PenBtn2 Actid="208" id="0"/>
+            <P0>0</P0>
+            <P1X>0.5</P1X>
+            <P1Y>0.5</P1Y>
+            <P2>1</P2>
+            <TablePC>1</TablePC>
+            <RelativeCoords Speed="5">0</RelativeCoords>
+          </Pen>
+        </app>
+      </Apps>
+    </DummyDevice>
+  </PenTableLists>
+</UGEE>
